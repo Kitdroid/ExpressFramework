@@ -1,7 +1,7 @@
 package org.kitdroid.fx;
 
 /**
- * @author Ô¶º½ on 2015/3/28.
+ * @author è¿œèˆª on 2015/3/28.
  */
 public class AppState {
 

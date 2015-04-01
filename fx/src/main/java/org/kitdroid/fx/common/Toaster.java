@@ -7,7 +7,7 @@ import org.kitdroid.fx.AppContext;
 import org.kitdroid.fx.AppState;
 
 /**
- * Created by Ô¶º½ on 2015/3/28.
+ * Created by è¿œèˆª on 2015/3/28.
  */
 public class Toaster {
 
